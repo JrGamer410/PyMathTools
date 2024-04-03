@@ -1,0 +1,17 @@
+[project]
+name = "pymathtools"
+version = "1.0"
+authors = [
+  { name="Sean-e", email="seane410@gmail.com" },
+]
+description = "A really simple Python library to do some math operations"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/JrGamer410/pymathtools"
+Issues = "https://github.com/JrGamer410/pymathtools/issues"
