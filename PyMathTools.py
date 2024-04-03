@@ -71,3 +71,11 @@ def slopeofaline(y2, y1, x2, x1):
     y = y2 - y1
     x = x2 - x1
     return y / x
+
+def cylindervolume(radius, height):
+    height = int(height)
+    radius = int(radius)
+    radius = radius * radius
+    ans = radius * height
+    # Using 3.14 for pi
+    return ans * 3.14
